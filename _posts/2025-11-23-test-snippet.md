@@ -9,9 +9,9 @@ Here is my small snippet of code or thought for the day!
 
 It is a comprehensive dashboard for visualizing clinical trial biomarker data and planning statistical power.
 
-You can find it [here] (https://biotrial-analytics-334146290048.us-west1.run.app/) with all relevant details.
+You can find it [here](https://biotrial-analytics-334146290048.us-west1.run.app/) with all relevant details.
 
-[GitHub link] (https://github.com/vd4mmind/BioTrial-Analytics) in case anyone wants to collaborate :handshake: :busts_in_silhouette: :blush:
+[GitHub link](https://github.com/vd4mmind/BioTrial-Analytics) in case anyone wants to collaborate :handshake: :busts_in_silhouette: :blush:
 
 
 
