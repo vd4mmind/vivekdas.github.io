@@ -3,9 +3,11 @@ layout: post
 title: "My First Snippet"
 date: 2025-11-23
 ---
-Here is my small snippet of code or thought for the day!
+Here is my small snippet of thought for the day!
 
-**Check out and try my new BioTrial Analytics Dashboard**
+I started playing with **Gemini 3, Google AI Studio and, Anti-gravity** to put my ideas into action. I improved my website today to add blogs, built dashboards with Agentic AI. It is a **Biomarker Analytical Dashboard** that can enable power calculation as well for experimental design while panning trials or observational research. :blush:
+
+**Check out the details below and try my new BioTrial Analytics Dashboard**
 
 It is a comprehensive dashboard for visualizing clinical trial biomarker data and planning statistical power.
 
