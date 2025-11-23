@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<div class="wrapper">
+  <header>
+    <h1><a href="{{ site.baseurl }}/">{{ site.title | default: site.github.repository_name }}</a></h1>
+    <p>{{ site.description | default: site.github.project_tagline }}</p>
+    <!-- Add a link back to Home if the user is on a blog post -->
+    <p><a href="{{ site.baseurl }}/">← Back to Home</a></p>
+  </header>
+
+  <section>
+    <small>{{ page.date | date_to_string }}</small>
+    <h1>{{ page.title }}</h1>
+    
+    {{ content }}
+    
+  </section>
+</div>
