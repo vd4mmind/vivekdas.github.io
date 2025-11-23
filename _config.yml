@@ -3,3 +3,5 @@ logo: /assets/Vivek-Das-4.png
 description: Omics in Clinical Trials | Digital Business Strategy | Data Science | Applied ML/AI | Strategy & Innovation | Mentor | Thought Leader | Scientific Advisory Board Member
 show_downloads: true
 theme: jekyll-theme-minimal
+url: "https://vd4mmind.github.io"
+baseurl: "/vivekdas.github.io"
