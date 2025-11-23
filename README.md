@@ -13,6 +13,10 @@ This website is built using GitHub Pages, Jekyll and GitHub Actions (*under acti
 
 💞️ I also collaborate on developing applied machine learning models using publicly available data with curious students or researchers and contribute to open science and open source modeling. I am fascinated by the potential of high-dimensional and high-throughput biomedical data.
 
+## Musings
+
+[Check out my Blog Snippets →](https://vd4mmind.github.io/vivekdas.github.io/blog/)
+
 ## Publications
 
 📚 To read more about our published studies kindly check out my [Google Scholar page](https://scholar.google.it/citations?user=l_Aj58cAAAAJ&hl=en)
