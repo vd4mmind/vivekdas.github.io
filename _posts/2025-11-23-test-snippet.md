@@ -5,7 +5,7 @@ date: 2025-11-23
 ---
 Here is my small snippet of thought for the day!
 
-I started playing with **Gemini 3, Google AI Studio and, Anti-gravity** to put my ideas into action. I improved my website today to add blogs, built dashboards with Agentic AI. It is a **Biomarker Analytical Dashboard** that can enable power calculation as well for experimental design while panning trials or observational research. &#x1F60A;
+I started playing with **Gemini 3, Google AI Studio and, Anti-gravity** to put my ideas into action. I improved my website today to add blogs, built dashboards with Agentic AI. It is a **Biomarker Analytical Dashboard** that can enable power calculation as well for experimental design while planning trials or observational research experiments. &#x1F60A;
 
 **Check out the details below and try my new BioTrial Analytics Dashboard**
 
