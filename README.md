@@ -11,6 +11,16 @@ I work at the intersection of translational omics, computational biology, and cl
 
 💞️ I also collaborate on developing applied machine learning models using publicly available data with curious students or researchers worldwide and contribute to open science and open-source modeling. I am fascinated by the potential of high-dimensional and high-throughput biomedical data.
 
+## How I work
+
+I operate at the intersection of science, data, and decision-making, with a focus on clarity and impact. My approach is shaped by working in matrixed, cross-functional environments where priorities evolve and uncertainty is the norm.
+  - Start with the decision or question, not the method
+  - Work closely with clinical, biomarker, and analytics partner to align early
+  - Prefer fewer, decision-critical analyses over broad exploratory work
+  - Translate complex results into clear narratives for diverse stakeholders
+  - Enable and mentor others to lead execution while maintaining accountability
+  - Stay pragmatic and adaptable as constraints and priorities change
+
 ## Musings
 
 [Check out my Blog Snippets →](https://vd4mmind.github.io/vivekdas.github.io/blog/)
