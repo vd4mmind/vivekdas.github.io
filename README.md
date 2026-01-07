@@ -47,7 +47,7 @@ I operate at the intersection of science, data, and decision-making, with a focu
 
 - **Post Doctoral Scientist in European Institute of Oncology** - *2017-2018* - Early Oncology Research in Milan, Italy
 
-  Post PhD project follow-ups, transition and closure in both the cancer models (Glioblastoma recurrence and Ovarian Cancer) that I have worked on during PhD years using NGS technologies for Omics integration (from patients to gene networks).
+   - Post PhD project follow-ups, transition and closure in both the cancer models (Glioblastoma recurrence and Ovarian Cancer) that I have worked on during PhD years using NGS technologies for Omics integration (from patients to gene networks).
 
 - **Programmer Analyst in Cognizant** - *2010-2012* - Database management, Programming in PERL, Java & SQL in Kolkata, India
 
