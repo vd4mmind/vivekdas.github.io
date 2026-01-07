@@ -5,13 +5,11 @@ This website is built using GitHub Pages, Jekyll and GitHub Actions (*under acti
 ## About Me
 👋 Hi, I’m Vivek Das
 
-👀 I am presently leading a team of exceptional Computational Biologists and Clinical Data Scientists around cardiorenal and neuronal trials at the convergence of omics, clinical data, drug assets and, precision medicine. Previously, I worked on finding therapeutic targets and, currently the focus is more on biomarkers (prognostic/predictive/response) for multiple cardiometabolic (e.g., Chronic Kidney, Atherosclerosis, Heart Failure, Diabetes, Liver, Neurodegenerative, etc.) diseases. We combine data-driven and knowledge-driven avenues to facilitate Precision Medicine by leveraging the integration of bulk and single-cell multi-omics data alongside clinical data from human observational biobanks and clinical trials
-
-🌱 My role enables and provides the opportunity and privilege to collaborate, engage, mentor PhD, PostDocs, Clinical Data Scientists and, Computational Biologists working in Healthcare, Clinical Omics, Applied AI/ML in Medicine
+I lead trams in translational omics and data science that directly influence clinical decision-making across cardiometabolic and neurological programs. My work bridges computational biology, ML/AI, and integrated clinical data to enable key decisions in late-stage clinical development. I also mentor and collaborate with scientists worldwide.
 
 💻 Previously, I also worked on omics projects involving preclinical data with interventional designs e.g., knockout or drug-treated at single cell or bulk multi-omics level
 
-💞️ I also collaborate on developing applied machine learning models using publicly available data with curious students or researchers and contribute to open science and open source modeling. I am fascinated by the potential of high-dimensional and high-throughput biomedical data.
+💞️ I also collaborate on developing applied machine learning models using publicly available data with curious students or researchers and contribute to open science and open-source modeling. I am fascinated by the potential of high-dimensional and high-throughput biomedical data.
 
 ## Musings
 
@@ -24,15 +22,18 @@ This website is built using GitHub Pages, Jekyll and GitHub Actions (*under acti
 ## Experience
 - **Lead Data Scientist in Novo Nordisk A/S** - *2023 - Present* - Clinical Trial Omics & Precision Medicine in Clinical Development, Soborg, Denmark
   
-  Lead a team, design, build, deploy, & implement integrative multi-omics strategies and projects, in-silico analytical frameworks & interpretability in Late-Stage Clinical Trial (CardioRenal and neuronal) settings.
+     - Lead multi-disciplinary omics analysis influencing key clinical go/no-go decision
+     - Mentored 6 Phd/postdocs and guided career development
+     - Built analytical frameworks for precision medicine strategies
+  
   
 - **Senior Research Scientist in Novo Nordisk A/S** - *2021-2023* - Early Drug Discovery, Malov, Denmark
 
-  In-silico Target and Biomarker discovery using high dimensional bulk/single-cell multi-Omics data, analysis, visualization and integration with clinical phenotypic measurements using advanced statistics and ML.
+    - In-silico Target and Biomarker discovery using high dimensional bulk/single-cell multi-Omics data, analysis, visualization and integration with clinical phenotypic measurements using advanced statistics and ML.
 
 - **Post Doctoral Scientist in Novo Nordisk A/S** - *2018-2021* - Early Research in Seattle, USA
   
-    Industrial research for biomarkers and target discovery in T1D, Immunology, and Kidney Research Unit through integrative systems medicine approach as a part of IMI delivery. Special focus on Diabetes and Chronic Kidney Diseases(currently End-Stage) as a part of integrating multi-omics discovery(NGS, Microarray, targeted NanoString Panels and Clinical data) from varied tissue sources extracted from patients/model organisms to deliver new research insights for therapies.
+   - Industrial research for biomarkers and target discovery in T1D, Immunology, and Kidney Research Unit through integrative systems medicine approach as a part of IMI delivery. Special focus on Diabetes and Chronic Kidney Diseases(currently End-Stage) as a part of integrating multi-omics discovery(NGS, Microarray, targeted NanoString Panels and Clinical data) from varied tissue sources extracted from patients/model organisms to deliver new research insights for therapies.
 
 - **Post Doctoral Scientist in European Institute of Oncology** - *2017-2018* - Early Oncology Research in Milan, Italy
 
@@ -40,7 +41,9 @@ This website is built using GitHub Pages, Jekyll and GitHub Actions (*under acti
 
 - **Programmer Analyst in Cognizant** - *2010-2012* - Database management, Programming in PERL, Java & SQL in Kolkata, India
 
-  Experienced in algorithm development, Software Development, deployment, and unit testing for both business and scientific innovation. In this organization I worked both as a Software Developer and an IT infrastructure maintenance consultant within Retail and Life Sciences vertical as a part of Master Data Management (MDM) horizontal in a matrix setting. My final project was that of a Support Programmer Analyst maintaining and enhancing a Life Science Database using Oracle (SQL programming) for a leading pharmaceutical company where I handled critical issues, performed bug analysis and system integration via  programmatic solution. 
+   - Experienced in algorithm development, Software Development, deployment, and unit testing for both business and scientific innovation.
+   - In this organization I worked both as a Software Developer and an IT infrastructure maintenance consultant within Retail and Life Sciences vertical as a part of Master Data Management (MDM) horizontal in a matrix setting.
+   - My final project was that of a Support Programmer Analyst maintaining and enhancing a Life Science Database using Oracle (SQL programming) for a leading pharmaceutical company where I handled critical issues, performed bug analysis and system integration via  programmatic solution. 
 
 ## Education
 
