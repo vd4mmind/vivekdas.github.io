@@ -5,7 +5,7 @@ This website is built using GitHub Pages, Jekyll and GitHub Actions (*under acti
 ## About Me
 👋 Hi, I’m Vivek Das
 
-I lead trams in translational omics and data science that directly influence clinical decision-making across cardiometabolic and neurological programs. My work bridges computational biology, ML/AI, and integrated clinical data to enable key decisions in late-stage clinical development. I also mentor and collaborate with scientists worldwide.
+I lead teams in translational omics and data science that directly influence clinical decision-making across cardiometabolic and neurological programs. My work bridges computational biology, ML/AI, and integrated clinical data to enable key decisions in late-stage clinical development. I also mentor and collaborate with scientists worldwide.
 
 💻 Previously, I also worked on omics projects involving preclinical data with interventional designs e.g., knockout or drug-treated at single cell or bulk multi-omics level
 
