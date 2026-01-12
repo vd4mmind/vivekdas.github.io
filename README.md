@@ -33,7 +33,7 @@ I operate at the intersection of science, data, and decision-making, with a focu
 - **Lead Data Scientist in Novo Nordisk A/S** - *2023 - Present* - Clinical Trial Omics & Precision Medicine in Clinical Development, Soborg, Denmark
   
      - Lead multi-disciplinary omics analysis influencing key clinical go/no-go decision
-     - Mentored 6 Phd/postdocs and guided career development
+     - Mentored 6 Phd/postdocs, 6-member team of Computational Biologists/Clinical Data Scientists and guided career development
      - Built analytical frameworks for precision medicine strategies
   
   
