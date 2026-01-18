@@ -1,25 +1,22 @@
 ---
 ---
 
-/* Import the theme first so our rules override it */
+/* Import the theme first so our overrides come after */
 @import "jekyll-theme-minimal";
 
-/* Constrain header avatar/logo so it can't grow huge on desktop */
+/* Restrict avatar/logo size so it doesn't push content on desktop */
 .site-logo img,
 .site-header img,
 .author img,
 .profile-image img {
-  max-width: 220px;   /* adjust as needed */
+  max-width: 220px !important; /* prevents excessively large avatar on desktop */
   width: 100%;
   height: auto;
   display: block;
 }
 
-/* Prevent title/description from overlapping small fixed-width avatar on wide screens.
-   Force a simple two-column layout for the header on desktop. */
+/* Desktop: keep header items side-by-side and prevent wrapping/overlap */
 @media (min-width: 900px) {
-  /* Depending on the theme markup the header container might be .page-header or .site-header.
-     This targets both to be safe. */
   .page-header,
   .site-header {
     display: flex;
@@ -28,36 +25,35 @@
     flex-wrap: nowrap;
   }
 
-  /* Make the title/intro area take remaining horizontal space */
+  /* Title/description should shrink properly if space is constrained */
   .page-header .site-title,
   .site-header .site-title,
   .page-header .site-description,
   .site-header .site-description {
     flex: 1 1 auto;
-    min-width: 0; /* prevents overflow when using ellipsis or wrapping */
+    min-width: 0; /* allows truncation/wrapping without overflow */
   }
 
-  /* Fix the avatar/author column width */
+  /* Keep avatar/author column a reasonable width */
   .page-header .author,
   .site-header .author,
   .page-header .site-logo,
   .site-header .site-logo {
-    flex: 0 0 240px; /* fixed-ish column for image and short metadata */
+    flex: 0 0 240px;
   }
 }
 
-/* Make sure project links / download buttons clear the header and do not float over content */
-.site-footer,
-.download-buttons,
-.project-links,
-.author + .project-links {
-  clear: both;
-  position: relative;
-  z-index: 1;
-}
-
-/* If you still see overlapping links, increase spacing below the header */
+/* Add a little spacing below header so links/buttons can't float over it */
 .page-header,
 .site-header {
   margin-bottom: 1rem;
+}
+
+/* Make sure footer/buttons clear any floats */
+.site-footer,
+.download-buttons,
+.project-links {
+  clear: both;
+  position: relative;
+  z-index: 1;
 }
