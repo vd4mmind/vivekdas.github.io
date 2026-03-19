@@ -21,6 +21,13 @@ I operate at the intersection of science, data, and decision-making, with a focu
   - Enable and mentor others to lead execution while maintaining accountability
   - Stay pragmatic and adaptable as constraints and priorities change
 
+
+## Impact on Clinical & Portfolio Decisions
+
+  - Enabled rapid synthesis of clinical and competitive data to support portfolio decision-making and reduce analysis timelines
+  - Informed biomarker strategies influencing trial design and regulatory positioning
+  - Supported cross-functional decisions across R&D, clinical development, and strategy teams
+
 ## Musings
 
 [Check out my Blog Snippets →](https://vd4mmind.github.io/vivekdas.github.io/blog/)
