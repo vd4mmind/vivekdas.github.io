@@ -67,7 +67,11 @@ I operate at the intersection of science, data, and decision-making, with a focu
 
 I have collaborated with a few biotech, pharmaceutical companies in pre-competitive space, universities, and hospitals within and outside my current job across projects, leading work packages, team, supervision of PhD and Post-Doctorial researchers.
 
-Consortium and collaborations I have been part of:
+Consortium and collaborations I am/have been part of:
+
+- [Danish Management committee member of pan-European initiatives CardioPharmaGENET](https://www.cost.eu/actions/CA24165/)
+
+- [Biomarkers European Special Interest Group (ESIG)](https://psiweb.org/sigs-special-interest-groups/biomarkers)
 
 - [IMI BEAt-DKD](https://www.beat-dkd.eu/)
   
