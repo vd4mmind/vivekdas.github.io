@@ -32,9 +32,9 @@ I operate at the intersection of science, data, and decision-making, with a focu
 ## Experience
 - **Lead Data Scientist in Novo Nordisk A/S** - *2023 - Present* - Clinical Trial Omics & Precision Medicine in Clinical Development, Soborg, Denmark
   
-     - Lead multi-disciplinary omics analysis influencing key clinical go/no-go decision
+     - Lead multi-disciplinary omics analysis projects influencing key clinical go/no-go decision
      - Mentored 6 Phd/postdocs, 6-member team of Computational Biologists/Clinical Data Scientists and guided career development
-     - Built analytical frameworks for precision medicine strategies
+     - Built analytical frameworks for precision medicine strategies that reduce time and are cost effective 
   
   
 - **Senior Research Scientist in Novo Nordisk A/S** - *2021-2023* - Early Drug Discovery, Malov, Denmark
@@ -87,6 +87,8 @@ Consortium and collaborations I have been part of:
 
 ## Open source projects
 
+- Multiomics Latent Embedding model using Autoencoders [neuroMDAVIS](https://github.com/shallowlearner93/NeuroMDAVIS)
+  
 - Multiomics Feature Extraction model using Autoencoders [multOmicsIntegration](https://github.com/vd4mmind/multiOmicsIntegration)
 
 - Single Cell Multiomics integration model [UMINT](https://github.com/deeplearner87/UMINT)
@@ -118,6 +120,8 @@ Scientific advice and suggestions on the utility of current and potential featur
 - [Computational Biologist Interview](https://theinterviewportal.com/2021/04/12/computational-biologist-interview-7/)
 
 ## Certifications and Awards
+
+- *New manager – Leadership toolbox training and cerification (Issued 2025)* - Center for Leaders CFL, Denmark
 
 - *Machine Learning for Single Cell Analysis (Issued 2020)* - Yale Genetics and Yale SEASYale Genetics and Yale SEAS
   
