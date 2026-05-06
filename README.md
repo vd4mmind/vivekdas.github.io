@@ -37,7 +37,11 @@ I operate at the intersection of science, data, and decision-making, with a focu
 📚 To read more about our published studies kindly check out my [Google Scholar page](https://scholar.google.it/citations?user=l_Aj58cAAAAJ&hl=en)
 
 ## Experience
-- **Lead Data Scientist in Novo Nordisk A/S** - *2023 - Present* - Clinical Trial Omics & Precision Medicine in Clinical Development, Soborg, Denmark
+- **Principal Scientist in Novo Nordisk A/S** - *2026 - Present* - Clinical Omics Sciences
+     - Leading translational omics and biomarker strategy across clinical development programs to enable stronger patient stratification, mechanistic understanding, and evidence-driven portfolio decisions in cardiometabolic disease areas.
+     - Driving cross-functional initiatives spanning clinical trials, multi-omics integration, precision medicine, and external scientific collaborations to maximize the impact of clinical biomarker and omics data across pipeline and development programs.
+
+- **Lead Data Scientist in Novo Nordisk A/S** - *2023 - 2026* - Clinical Trial Omics & Precision Medicine in Clinical Development, Soborg, Denmark
   
      - Lead multi-disciplinary omics analysis projects influencing key clinical go/no-go decision
      - Mentored 6 Phd/postdocs, 6-member team of Computational Biologists/Clinical Data Scientists and guided career development
