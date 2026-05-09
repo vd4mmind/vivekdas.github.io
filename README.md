@@ -176,7 +176,7 @@ Scientific advice and suggestions on the utility of current and potential featur
 - Applied LLM in Biology and drug development
 - Clinical Trial Design
 - Single-cell and multi-omics predictive modeling
-- Cardiometabolic diseases (Diabetes, Chronic Kidney Disease, Cardiovascular Disease, Liver Disease, Solid Cancers)
+- Cardiometabolic diseases (Diabetes, Obesity, Chronic Kidney Disease, Cardiovascular Disease, Liver Disease, Solid Cancers)
 - Digital Strategy
 - Software products
 - Team building
