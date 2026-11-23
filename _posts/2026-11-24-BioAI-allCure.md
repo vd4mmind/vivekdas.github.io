@@ -10,6 +10,8 @@ Derek Lowe’s recent response to Dario Amodei makes a fair point: confident dea
 
 The recent industry discussion adds something useful. As reported by FierceBiotech, Vas Narasimhan distinguishes between information, operational and biological delays in development. We can improve all three, but they present different problems.[2]
 
+For me, the important question is how these gains connect across development. Faster discovery and analysis can help, but their effect on the overall programme depends on experimental validation, operational readiness and how the evidence informs the next decision.
+
 ## There is already meaningful progress
 
 Novo Nordisk’s 2024 annual report describes harmonising data from around 1,600 clinical trials to support disease insights, patient stratification and target identification.
